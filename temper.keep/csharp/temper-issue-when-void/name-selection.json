@@ -1,0 +1,56 @@
+{
+    "about": "Backend names selected by user via the temper CLI. This file should be committed.",
+    "toolchain-version": "<debug>",
+    "library-name": "temper-issue-when-void",
+    "backend-id": "csharp",
+    "selections": [
+        {
+            "qualified-name": "temper-issue-when-void.type Shape",
+            "selected-name": "Shape"
+        },
+        {
+            "qualified-name": "temper-issue-when-void.type Circle",
+            "selected-name": "Circle"
+        },
+        {
+            "qualified-name": "temper-issue-when-void.type Square",
+            "selected-name": "Square"
+        },
+        {
+            "qualified-name": "temper-issue-when-void.type Status",
+            "selected-name": "Status"
+        },
+        {
+            "qualified-name": "temper-issue-when-void.type Active",
+            "selected-name": "Active"
+        },
+        {
+            "qualified-name": "temper-issue-when-void.type Done",
+            "selected-name": "Done"
+        },
+        {
+            "qualified-name": "temper-issue-when-void.type Done.winner",
+            "selected-name": "Winner"
+        },
+        {
+            "qualified-name": "temper-issue-when-void.type Drawn",
+            "selected-name": "Drawn"
+        },
+        {
+            "qualified-name": "temper-issue-when-void.describe()",
+            "selected-name": "Describe"
+        },
+        {
+            "qualified-name": "temper-issue-when-void.classify()",
+            "selected-name": "Classify"
+        },
+        {
+            "qualified-name": "temper-issue-when-void.describeOk()",
+            "selected-name": "DescribeOk"
+        },
+        {
+            "qualified-name": "temper-issue-when-void.classifyOk()",
+            "selected-name": "ClassifyOk"
+        }
+    ]
+}
